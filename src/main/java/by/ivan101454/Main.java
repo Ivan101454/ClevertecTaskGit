@@ -2,6 +2,6 @@ package by.ivan101454;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("fm1c1");
+        System.out.println("fm1c2");
     }
 }
